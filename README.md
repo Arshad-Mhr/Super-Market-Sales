@@ -46,6 +46,4 @@ The dataset used in this project is the **Supermarket Sales Dataset** from [Kagg
 - Add predictive analytics to forecast future sales trends.
 - Create a mobile-friendly version of the dashboard.
 
----
 
-Feel free to customize this description further to match your style or add any additional details about your project. Good luck with your GitHub upload, and let me know if you need further assistance! 🚀
