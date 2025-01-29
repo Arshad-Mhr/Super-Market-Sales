@@ -1,9 +1,3 @@
-# Super-Market-Sales
-
-That’s great to hear! Congratulations on completing your **Supermarket Sales Analysis** project in Power BI. Below is a professional and concise description you can use when uploading your project to GitHub:
-
----
-
 ### **Project Title**: Supermarket Sales Analysis Using Power BI
 
 #### **Description**:
